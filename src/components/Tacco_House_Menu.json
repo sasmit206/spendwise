@@ -1,0 +1,1751 @@
+[
+ {
+  "Item ID": 1,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chicken Taco (Single)",
+  "Price": "80",
+  "Veg": 0
+ },
+ {
+  "Item ID": 2,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chicken Taco (Double)",
+  "Price": "150",
+  "Veg": 0
+ },
+ {
+  "Item ID": 3,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chipotle Chicken Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 4,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chipotle Chicken Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 5,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Piri Piri Chicken Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 6,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Piri Piri Chicken Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 7,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Sriracha Chicken Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 8,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Sriracha Chicken Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 9,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Honey Mustard Chicken (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 10,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Honey Mustard Chicken (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 11,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Taco Smoky BBQ Chicken (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 12,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Taco Smoky BBQ Chicken (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 13,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Taco Mint Chicken Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 14,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Taco Mint Chicken Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 15,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Lemon Pepper Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 16,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Lemon Pepper Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 17,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chilly Garlic Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 18,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chilly Garlic Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 19,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Lemon Chilly Garlic Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 20,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Lemon Chilly Garlic Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 21,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Smoky BBQ Soft Taco (Single)",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 22,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Smoky BBQ Soft Taco (Double)",
+  "Price": "170",
+  "Veg": 0
+ },
+ {
+  "Item ID": 23,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chicken Jumbo Soft",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 24,
+  "Category": "Special Chicken Tacos",
+  "Item Name": "Chicken Jumbo Taco",
+  "Price": "120",
+  "Veg": 0
+ },
+ {
+  "Item ID": 25,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chipotle Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 26,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chipotle Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 27,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chipotle Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 28,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chipotle Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 29,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Piri Piri Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 30,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Piri Piri Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 31,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Piri Piri Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 32,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Piri Piri Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 33,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Sriracha Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 34,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Sriracha Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 35,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Sriracha Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 36,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Sriracha Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 37,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Honey Mustard Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 38,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Honey Mustard Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 39,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Honey Mustard Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 40,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Honey Mustard Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 41,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Smoky BBQ Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 42,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Smoky BBQ Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 43,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Smoky BBQ Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 44,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Smoky BBQ Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 45,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Mint Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 46,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Mint Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 47,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Mint Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 48,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Mint Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 49,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Pepper Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 50,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Pepper Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 51,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Pepper Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 52,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Pepper Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 53,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chilly Garlic Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 54,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chilly Garlic Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 55,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chilly Garlic Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 56,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Chilly Garlic Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 57,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Chilly Garlic Taco (Veg Single)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 58,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Chilly Garlic Taco (Veg Double)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 59,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Chilly Garlic Taco (Paneer Single)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 60,
+  "Category": "Veg Taco & Paneer",
+  "Item Name": "Lemon Chilly Garlic Taco (Paneer Double)",
+  "Price": "150",
+  "Veg": 1
+ },
+ {
+  "Item ID": 61,
+  "Category": "Momos",
+  "Item Name": "Chicken Steam Momos",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 62,
+  "Category": "Momos",
+  "Item Name": "Veg Steam Momos",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 63,
+  "Category": "Momos",
+  "Item Name": "Fried Chicken Momos",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 64,
+  "Category": "Momos",
+  "Item Name": "Fried Veg Momos",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 65,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Potato Veggies",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 66,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Potato Cheese Shot",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 67,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Chilli Garlic Shot",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 68,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Veg Finger",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 69,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "French Fries",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 70,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Peri Peri Fries",
+  "Price": "100",
+  "Veg": 1
+ },
+ {
+  "Item ID": 71,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Peri Peri Cheese Fries",
+  "Price": "110",
+  "Veg": 1
+ },
+ {
+  "Item ID": 72,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Masala French Fries",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 73,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Chipotle Cheese Fries",
+  "Price": "110",
+  "Veg": 1
+ },
+ {
+  "Item ID": 74,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "BBQ Cheese Fries",
+  "Price": "110",
+  "Veg": 1
+ },
+ {
+  "Item ID": 75,
+  "Category": "Veg Starter \/ Snacks",
+  "Item Name": "Honey Mustard Cheese Fries",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 76,
+  "Category": "Veg Burger",
+  "Item Name": "Chipotle Burger(veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 77,
+  "Category": "Veg Burger",
+  "Item Name": "Chiplotle Burger(paneer)",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 78,
+  "Category": "Veg Burger",
+  "Item Name": "Sweet Onion Burger(veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 79,
+  "Category": "Veg Burger",
+  "Item Name": "Sweet Onion Burger(paneer)",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 80,
+  "Category": "Veg Burger",
+  "Item Name": "BBQ Burger(veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 81,
+  "Category": "Veg Burger",
+  "Item Name": "BBQ Burger(paneer)",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 82,
+  "Category": "Veg Burger",
+  "Item Name": "Peri Peri Burger(veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 83,
+  "Category": "Veg Burger",
+  "Item Name": "Peri Peri Burger(paneer)",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 84,
+  "Category": "Veg Burger",
+  "Item Name": "Honey Mustard Burger(veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 85,
+  "Category": "Veg Burger",
+  "Item Name": "Honey Mustard Burger(paneer)",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 86,
+  "Category": "Veg Burger",
+  "Item Name": "Paneer Tikka Burger(paneer)",
+  "Price": 110,
+  "Veg": 1
+ },
+ {
+  "Item ID": 87,
+  "Category": "Veg Burger",
+  "Item Name": "Veg Snacker Burger(veg)",
+  "Price": 60,
+  "Veg": 1
+ },
+ {
+  "Item ID": 88,
+  "Category": "Veg Burger",
+  "Item Name": "Veg Snacker Burger(paneer)",
+  "Price": 70,
+  "Veg": 1
+ },
+ {
+  "Item ID": 89,
+  "Category": "Veg Burger",
+  "Item Name": "Aloo Tikki Burger(veg)",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 90,
+  "Category": "Veg Burger",
+  "Item Name": "Veg Double Tacker",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 91,
+  "Category": "Chicken Burger",
+  "Item Name": "Chicken Burger",
+  "Price": "90",
+  "Veg": 0
+ },
+ {
+  "Item ID": 92,
+  "Category": "Chicken Burger",
+  "Item Name": "Chipotle Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 93,
+  "Category": "Chicken Burger",
+  "Item Name": "Sriracha Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 94,
+  "Category": "Chicken Burger",
+  "Item Name": "BBQ Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 95,
+  "Category": "Chicken Burger",
+  "Item Name": "Peri Peri Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 96,
+  "Category": "Chicken Burger",
+  "Item Name": "Honey Mustard Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 97,
+  "Category": "Chicken Burger",
+  "Item Name": "Snacker Burger",
+  "Price": "70",
+  "Veg": 0
+ },
+ {
+  "Item ID": 98,
+  "Category": "Chicken Burger",
+  "Item Name": "American Burger",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 99,
+  "Category": "Chicken Burger",
+  "Item Name": "Thousand Iceland Burger",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 100,
+  "Category": "Chicken Burger",
+  "Item Name": "Chicken Schezwan Burger",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 101,
+  "Category": "Chicken Burger",
+  "Item Name": "Chilly Garlic Chicken Burger",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 102,
+  "Category": "Chicken Burger",
+  "Item Name": "Double Tacker",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 103,
+  "Category": "Chicken Burger",
+  "Item Name": "Egg Golden Delight",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 104,
+  "Category": "Chicken Burger",
+  "Item Name": "Chicken Golden Delight",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 105,
+  "Category": "Sandwich",
+  "Item Name": "Chicken Sandwich",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 106,
+  "Category": "Sandwich",
+  "Item Name": "American Sandwich",
+  "Price": "90"
+ },
+ {
+  "Item ID": 107,
+  "Category": "Sandwich",
+  "Item Name": "Paneer Sandwich",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 108,
+  "Category": "Sandwich",
+  "Item Name": "Egg Sandwich",
+  "Price": "70",
+  "Veg": 0
+ },
+ {
+  "Item ID": 109,
+  "Category": "Sandwich",
+  "Item Name": "Veg Sandwich",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 110,
+  "Category": "Sandwich",
+  "Item Name": "Chicken Cheese Sandwich",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 111,
+  "Category": "Sandwich",
+  "Item Name": "Chipotle Chicken Cheese",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 112,
+  "Category": "Sandwich",
+  "Item Name": "Sriracha Chicken Cheese",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 113,
+  "Category": "Sandwich",
+  "Item Name": "Chicken Tikka Sandwich",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 114,
+  "Category": "Sandwich",
+  "Item Name": "Egg Cheese Sandwich",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 115,
+  "Category": "Sandwich",
+  "Item Name": "Chicken Grill Sandwich",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 116,
+  "Category": "Sandwich",
+  "Item Name": "Mushroom Sandwich",
+  "Price": "100",
+  "Veg": 1
+ },
+ {
+  "Item ID": 117,
+  "Category": "Sandwich",
+  "Item Name": "Corn Sandwich",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 118,
+  "Category": "Sandwich",
+  "Item Name": "Masala Chicken Sandwich",
+  "Price": "80",
+  "Veg": 0
+ },
+ {
+  "Item ID": 119,
+  "Category": "Wraps",
+  "Item Name": "BBQ Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 120,
+  "Category": "Wraps",
+  "Item Name": "BBQ Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 121,
+  "Category": "Wraps",
+  "Item Name": "BBQ Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 122,
+  "Category": "Wraps",
+  "Item Name": "Peri Peri Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 123,
+  "Category": "Wraps",
+  "Item Name": "Peri Peri Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 124,
+  "Category": "Wraps",
+  "Item Name": "Peri Peri Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 125,
+  "Category": "Wraps",
+  "Item Name": "Chipotle Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 126,
+  "Category": "Wraps",
+  "Item Name": "Chipotle Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 127,
+  "Category": "Wraps",
+  "Item Name": "Chipotle Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 128,
+  "Category": "Wraps",
+  "Item Name": "Sriracha Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 129,
+  "Category": "Wraps",
+  "Item Name": "Sriracha Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 130,
+  "Category": "Wraps",
+  "Item Name": "Sriracha Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 131,
+  "Category": "Wraps",
+  "Item Name": "Honey Mustard Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 132,
+  "Category": "Wraps",
+  "Item Name": "Honey Mustard Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 133,
+  "Category": "Wraps",
+  "Item Name": "Honey Mustard Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 134,
+  "Category": "Wraps",
+  "Item Name": "Mint Wrap (veg)",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 135,
+  "Category": "Wraps",
+  "Item Name": "Mint Wrap (paneer)",
+  "Price": "90",
+  "Veg": 1
+ },
+ {
+  "Item ID": 136,
+  "Category": "Wraps",
+  "Item Name": "Mint Wrap (chicken)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 137,
+  "Category": "Wraps",
+  "Item Name": "Chicken Wrap",
+  "Price": 90,
+  "Veg": 0
+ },
+ {
+  "Item ID": 138,
+  "Category": "Wraps",
+  "Item Name": "Veg Wrap",
+  "Price": 70,
+  "Veg": 1
+ },
+ {
+  "Item ID": 139,
+  "Category": "Wraps",
+  "Item Name": "Paneer Wrap",
+  "Price": 80,
+  "Veg": 1
+ },
+ {
+  "Item ID": 140,
+  "Category": "Jumbo Wraps",
+  "Item Name": "BBQ Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 141,
+  "Category": "Jumbo Wraps",
+  "Item Name": "BBQ Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 142,
+  "Category": "Jumbo Wraps",
+  "Item Name": "BBQ Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 143,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Peri Peri Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 144,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Peri Peri Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 145,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Peri Peri Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 146,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Chipotle Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 147,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Chipotle Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 148,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Chipotle Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 149,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Sriracha Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 150,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Sriracha Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 151,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Sriracha Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 152,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Honey Mustard Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 153,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Honey Mustard Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 154,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Honey Mustard Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 155,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Mint chicken Wrap (veg)",
+  "Price": "120",
+  "Veg": 1
+ },
+ {
+  "Item ID": 156,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Mint chicken Wrap (paneer)",
+  "Price": "130",
+  "Veg": 1
+ },
+ {
+  "Item ID": 157,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Mint chicken Wrap (chicken)",
+  "Price": "140",
+  "Veg": 0
+ },
+ {
+  "Item ID": 158,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Chicken Wrap",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 159,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Veg Wrap",
+  "Price": 110,
+  "Veg": 1
+ },
+ {
+  "Item ID": 160,
+  "Category": "Jumbo Wraps",
+  "Item Name": "Paneer Wrap",
+  "Price": 120,
+  "Veg": 1
+ },
+ {
+  "Item ID": 161,
+  "Category": "Biryani",
+  "Item Name": "Hyderabadi Chicken Biriyani (half)",
+  "Price": "130",
+  "Veg": 0
+ },
+ {
+  "Item ID": 162,
+  "Category": "Biryani",
+  "Item Name": "Hyderabadi Chicken Biriyani (full)",
+  "Price": "200",
+  "Veg": 0
+ },
+ {
+  "Item ID": 163,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Veg Dinner Roll",
+  "Price": "80",
+  "Veg": 1
+ },
+ {
+  "Item ID": 164,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Veg Dinner Roll",
+  "Price": "100",
+  "Veg": 1
+ },
+ {
+  "Item ID": 165,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Veg Dinner Roll",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 166,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Veg Dinner Roll",
+  "Price": "110",
+  "Veg": 0
+ },
+ {
+  "Item ID": 167,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Veg Dinner Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 168,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Veg Dinner Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 169,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Potato Roll",
+  "Price": 70,
+  "Veg": 1
+ },
+ {
+  "Item ID": 170,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Potato Roll",
+  "Price": 100,
+  "Veg": 1
+ },
+ {
+  "Item ID": 171,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single egg Potato Roll",
+  "Price": 80,
+  "Veg": 0
+ },
+ {
+  "Item ID": 172,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Potato Roll",
+  "Price": 90,
+  "Veg": 0
+ },
+ {
+  "Item ID": 173,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Potato Roll",
+  "Price": 110,
+  "Veg": 0
+ },
+ {
+  "Item ID": 174,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Potato Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 175,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Paneer Roll",
+  "Price": 90,
+  "Veg": 1
+ },
+ {
+  "Item ID": 176,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Paneer Roll",
+  "Price": 120,
+  "Veg": 1
+ },
+ {
+  "Item ID": 177,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Paneer Roll",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 178,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Paneer Roll",
+  "Price": 110,
+  "Veg": 0
+ },
+ {
+  "Item ID": 179,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Paneer Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 180,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Paneer Roll",
+  "Price": 140,
+  "Veg": 0
+ },
+ {
+  "Item ID": 181,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Paneer tikka Roll",
+  "Price": 110,
+  "Veg": 1
+ },
+ {
+  "Item ID": 182,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Paneer Tikka Roll",
+  "Price": 140,
+  "Veg": 1
+ },
+ {
+  "Item ID": 183,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Paneer Tikka Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 184,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Paneer Tikka Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 185,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Paneer Tikka",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 186,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Paneer Tikka",
+  "Price": 160,
+  "Veg": 0
+ },
+ {
+  "Item ID": 187,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Cheese Roll",
+  "Price": 70,
+  "Veg": 0
+ },
+ {
+  "Item ID": 188,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Cheese Roll",
+  "Price": 85,
+  "Veg": 0
+ },
+ {
+  "Item ID": 189,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Triple Egg Cheese Roll",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 190,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Chicken Roll",
+  "Price": 90,
+  "Veg": 0
+ },
+ {
+  "Item ID": 191,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Chicken Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 192,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Chicken Roll",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 193,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Chicken Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 194,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Chicken Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 195,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Chicken Roll",
+  "Price": 140,
+  "Veg": 0
+ },
+ {
+  "Item ID": 196,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Chicken Dinner Roll",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 197,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Chicken Dinner Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 198,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Chicken Dinner Roll",
+  "Price": 110,
+  "Veg": 0
+ },
+ {
+  "Item ID": 199,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Chicken Dinner Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 200,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Chicken Dinner Roll",
+  "Price": 140,
+  "Veg": 0
+ },
+ {
+  "Item ID": 201,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Chicken Dinner Roll",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 202,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Chicken Tikka Roll",
+  "Price": 110,
+  "Veg": 0
+ },
+ {
+  "Item ID": 203,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Chicken Tikka Roll",
+  "Price": 140,
+  "Veg": 0
+ },
+ {
+  "Item ID": 204,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Chicken Tikka Roll",
+  "Price": 120,
+  "Veg": 0
+ },
+ {
+  "Item ID": 205,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Chicken Tikka Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 206,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Chicken Tikka Roll",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 207,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Chicken Tikka Roll",
+  "Price": 160,
+  "Veg": 0
+ },
+ {
+  "Item ID": 208,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Chicken Seek Kabab Roll",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 209,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Chicken Seek Kabab Roll",
+  "Price": 140,
+  "Veg": 0
+ },
+ {
+  "Item ID": 210,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Chicken Seek Kabab Roll",
+  "Price": 115,
+  "Veg": 0
+ },
+ {
+  "Item ID": 211,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double egg Chicken Seek Kabab Roll",
+  "Price": 130,
+  "Veg": 0
+ },
+ {
+  "Item ID": 212,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Single Egg Double Chicken Seek Kabab Roll",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 213,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Double Egg Double Chicken Seek Kabab Roll",
+  "Price": 160,
+  "Veg": 0
+ },
+ {
+  "Item ID": 214,
+  "Category": "Special Katti Rolls",
+  "Item Name": "Triple Chicken Seek Kabab Roll",
+  "Price": 170,
+  "Veg": 0
+ },
+ {
+  "Item ID": 215,
+  "Category": "Fried Chicken",
+  "Item Name": "Fried Chicken (2pc)",
+  "Price": "150",
+  "Veg": 0
+ },
+ {
+  "Item ID": 216,
+  "Category": "Fried Chicken",
+  "Item Name": "Fried Chicken (4pc)",
+  "Price": "300",
+  "Veg": 0
+ },
+ {
+  "Item ID": 217,
+  "Category": "Fried Chicken",
+  "Item Name": "Fried Chicken (8pc)",
+  "Price": "500",
+  "Veg": 0
+ },
+ {
+  "Item ID": 218,
+  "Category": "Milkshake",
+  "Item Name": "Strawberry",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 219,
+  "Category": "Milkshake",
+  "Item Name": "Oreo",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 220,
+  "Category": "Milkshake",
+  "Item Name": "Cold Coffee",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 221,
+  "Category": "Milkshake",
+  "Item Name": "Butterscotch",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 222,
+  "Category": "Milkshake",
+  "Item Name": "Mango",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 223,
+  "Category": "Milkshake",
+  "Item Name": "Choco Vanilla",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 224,
+  "Category": "Milkshake",
+  "Item Name": "Winter Vanilla",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 225,
+  "Category": "Milkshake",
+  "Item Name": "Lassi",
+  "Price": "40",
+  "Veg": 1
+ },
+ {
+  "Item ID": 226,
+  "Category": "Milkshake",
+  "Item Name": "Kiwi",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 227,
+  "Category": "Milkshake",
+  "Item Name": "Mango Lassi",
+  "Price": "50",
+  "Veg": 1
+ },
+ {
+  "Item ID": 228,
+  "Category": "Milkshake",
+  "Item Name": "Strawberry Lassi",
+  "Price": "50",
+  "Veg": 1
+ },
+ {
+  "Item ID": 229,
+  "Category": "Milkshake",
+  "Item Name": "Boost",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 230,
+  "Category": "Milkshake",
+  "Item Name": "Horlicks",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 231,
+  "Category": "Milkshake",
+  "Item Name": "Bornvita",
+  "Price": "60",
+  "Veg": 1
+ },
+ {
+  "Item ID": 232,
+  "Category": "Milkshake",
+  "Item Name": "Badam Milk",
+  "Price": "60",
+  "Veg": 1
+ },
+ {
+  "Item ID": 233,
+  "Category": "Milkshake",
+  "Item Name": "Pista Badam Milk",
+  "Price": "60",
+  "Veg": 1
+ },
+ {
+  "Item ID": 234,
+  "Category": "Milkshake",
+  "Item Name": "Blueberry",
+  "Price": "60",
+  "Veg": 1
+ },
+ {
+  "Item ID": 235,
+  "Category": "Milkshake",
+  "Item Name": "Black Current",
+  "Price": "70",
+  "Veg": 1
+ },
+ {
+  "Item ID": 236,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Spicy Finger",
+  "Price": 90,
+  "Veg": 0
+ },
+ {
+  "Item ID": 237,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Nuggets",
+  "Price": 90,
+  "Veg": 0
+ },
+ {
+  "Item ID": 238,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Popcorn",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 239,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Strips",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 240,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Wings Crespy (5pc)",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 241,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Wings Crespy (8pc)",
+  "Price": "150",
+  "Veg": 0
+ },
+ {
+  "Item ID": 242,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Lolipop Crespy (4pc)",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 243,
+  "Category": "Chicken Starter \/ Snacks",
+  "Item Name": "Chicken Lolipop Crespy (7pc)",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 244,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Wing Kabab (5pc)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 245,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Wing Kabab (8pc)",
+  "Price": "150",
+  "Veg": 0
+ },
+ {
+  "Item ID": 246,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Lollipop Kabab (5pc)",
+  "Price": "100",
+  "Veg": 0
+ },
+ {
+  "Item ID": 247,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Lollipop Kabab (7pc)",
+  "Price": "150",
+  "Veg": 0
+ },
+ {
+  "Item ID": 248,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Special Kabab (4pc)",
+  "Price": 100,
+  "Veg": 0
+ },
+ {
+  "Item ID": 249,
+  "Category": "Special Chicken Kabab",
+  "Item Name": "Special Kabab (7pc)",
+  "Price": 150,
+  "Veg": 0
+ },
+ {
+  "Item ID": 250,
+  "Category": "Family Pack",
+  "Item Name": "Fried Chicken (3pc) + Wind Crespy (4pc) + Chicken Popcorn (8pc)",
+  "Price": 399,
+  "Veg": 0
+ }
+]

@@ -17,15 +17,21 @@ function App() {
   };
 
   const handleGetSuggestions = () => {
-    const budget = Number(amount);
-    if (budget <= 0) {
-      setFilteredItems([]);
-      return;
-    }
+  const budget = Number(amount);
+  if (budget <= 0) {
+    setFilteredItems([]);
+    return;
+  }
 
-    const results = foodItems.filter((it) => it.price <= budget).sort((a, b) => a.price - b.price);
-    setFilteredItems(results);
-  };
+  const lowerLimit = budget * 0.85; 
+  const upperLimit = budget * 1.15;  
+
+  const results = foodItems
+    .filter((it) => it.price >= lowerLimit && it.price <= upperLimit)
+    .sort((a, b) => a.price - b.price);
+
+  setFilteredItems(results);
+};
 
   return (
     <div className="min-h-screen bg-slate-500 text-gray-100">

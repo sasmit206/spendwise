@@ -19,7 +19,7 @@ function Header({ amount, onAmountChange, onGetSuggestions }) {
         <label htmlFor="amount" className="text-gray-200 font-medium text-lg">
           Enter the amount:
         </label>
-        <input type="number" id="amount" step={"10"} value={amount} onChange={handleChange}
+        <input type="text" id="amount" step={"10"} value={amount} onChange={handleChange}
           className="w-44 bg-neutral-800 border border-gray-500 text-gray-100 rounded-lg px-4 py-2 text-center shadow-sm focus:outline-none focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition no-spinner"
         />
 

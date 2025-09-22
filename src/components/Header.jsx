@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header({ amount, onAmountChange, onGetSuggestions }) {
+function Header({ amount, onAmountChange, onGetSuggestions}) {
   const handleChange = (event) => {
     onAmountChange(event.target.value);
   };

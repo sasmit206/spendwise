@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Header from "./components/Header.jsx";
 import Display from "./components/Display.jsx";
+import Toggle from "./components/Toggle.jsx";
 import foodItems from "./components/foodItems.js";
 import "./App.css"; // make sure CSS is imported
 
@@ -50,10 +51,11 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-500 text-gray-100 flex flex-col items-center">
       <Header 
-        amount={amount} 
-        onAmountChange={handleAmountChange} 
-        onGetSuggestions={handleGetSuggestions}
+        amount = {amount} 
+        onAmountChange = {handleAmountChange} 
+        onGetSuggestions = {handleGetSuggestions}
       />
+      <Toggle />
       <Display items={filteredItems} budget={amount} />
 
       <div className="button-container">
